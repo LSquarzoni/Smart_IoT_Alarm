@@ -3,7 +3,7 @@ Development of an IoT-powered Smart Alarm, based on an ESP32 board.
 
 The project has been created for the course of Internet of Things at UNIBO.
 
-**Objective**: Design and IoT-based alarm system that incorporates bed presence detection to ensure the alarm is only triggered when the user is in bed and automatically set off when the user gets up.
+**Objective**: Design an IoT-based alarm system that incorporates bed presence detection to ensure the alarm is only triggered when the user is in bed and automatically set off when the user gets up.
 
 **Components**:
 
